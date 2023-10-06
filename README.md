@@ -1,5 +1,7 @@
 # Sales Analysis Dashboard with Python
 
+### Link for the Dashboard online: https://salesdashboardstudy.streamlit.app
+
 ### How to run this project?
 
 To run this project on your machine, clone this repository, open the terminal on the new folder and paste this commands:
